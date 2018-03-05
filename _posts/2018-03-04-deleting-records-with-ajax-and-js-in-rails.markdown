@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Deleting a Rails Active Records Object with AJAX & Vanilla JS"
