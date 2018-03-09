@@ -16,6 +16,8 @@ And by you, I mean me.
 
 Having decided that that needed to change, I wanted to start simple: deleting a Rails Active Record object using AJAX and vanilla JavaScript. In this particular case, my aim was to delete an instance of a Contact, which belongs to an Episode. I made it a particular point not to use jQuery, as everything jQuery does can be done with vanilla Javascript, and without the weight.
 
+<!--more-->
+
 
 # The Test
 Because I'm not yet familiar with JavaScript testing, I relied on my current integration testing suite, which utilizes RSpec, Capybara, and Selenium.
