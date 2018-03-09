@@ -30,6 +30,7 @@ plugins:
   - jekyll-paginate
 paginate: 10
 paginate_path: "/blog/post:num"
+excerpt_separator: <!--more-->
 
 assets:
   sources:
